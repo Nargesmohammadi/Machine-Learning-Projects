@@ -22,4 +22,4 @@ This repository contains a collection of machine learning projects covering vari
 11. Titanic Survival Prediction: 🚢️
     Using passenger data from the Titanic, this project predicts the likelihood of survival for individuals aboard the ill-fated ship.
 
-Each project is implemented using various machine learning algorithms and techniques, emphasizing accuracy and practicality. The codebase is thoroughly documented, ensuring easy understanding and reproducibility.
+Each project is implemented using various machine learning algorithms and techniques, emphasizing accuracy and practicality.
